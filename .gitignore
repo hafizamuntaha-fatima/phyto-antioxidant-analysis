@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Keep figures tracked so the repo shows results without running;
+# remove the next line if you prefer to regenerate them.
+# reports/figures/
