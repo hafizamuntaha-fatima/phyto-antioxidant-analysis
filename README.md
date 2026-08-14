@@ -1,5 +1,9 @@
 # Phytochemical & Antioxidant Data Analysis of Medicinal Plants
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hafizamuntaha-fatima/phyto-antioxidant-analysis/blob/main/notebooks/01_phytochemical_antioxidant_analysis.ipynb)
+
+> ▶️ Click the badge to open and run the analysis in Google Colab (free, no install).
+
 Reproducible analysis of the relationship between **phenolic/flavonoid content** and
 **antioxidant activity** across 38 medicinal plants, using Python (pandas, NumPy, Matplotlib).
 
